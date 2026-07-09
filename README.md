@@ -97,3 +97,13 @@ Detailed patient-level information including:
 - Enhanced patient satisfaction tracking
 
 - Data-driven decision making
+
+## Conclusion
+
+This project demonstrates the application of Power BI skills in creating and managing smarter healthcare decisions.
+## Author - PRANESHAR
+
+This project is part of my portfolio, showcasing the Power BI skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!    
+
+Thank you for your interest in this project!
+
